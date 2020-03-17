@@ -1,0 +1,15 @@
+"D:\professional software\IAR8.3\arm\bin\armproc.dll" 
+
+"D:\professional software\IAR8.3\arm\bin\armJET.dll" 
+
+"E:\work\seekfree\freescale_work\单片机库开发\RT1021\Projecct\IAR\program\Debug\Exe\RT102X.out" 
+
+--plugin="D:\professional software\IAR8.3\arm\bin\armbat.dll" 
+
+--device_macro="D:\professional software\IAR8.3\arm\config\debugger\NXP\iMXRT.dmac" 
+
+--flash_loader="D:\professional software\IAR8.3\arm\config\flashloader\NXP\SEEKFREE_W25Q64JV_QSPI_8M.board" 
+
+
+
+
